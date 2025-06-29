@@ -6,7 +6,7 @@ Full-Stack Developer passionate about building web applications and exploring AI
 
 - 🌍 Based in **Nouakchott, Mauritania**
 - 🎓 Studying at **Supnum**
-- 🌱 Learning **AI integration** and exploring **modern web technologies**
+
 - 💡 Passionate about creating innovative solutions that solve real-world problems
 
 ## 🛠️ Tech Stack
