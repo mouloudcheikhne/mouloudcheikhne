@@ -49,16 +49,17 @@ Full-Stack Developer passionate about building web applications and exploring AI
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
+
+## 📈 GitHub Stats  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouloudcheikhne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouloudcheikhne&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouloudcheikhne&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 
 ## 📊 Contribution Graph
